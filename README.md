@@ -1,7 +1,7 @@
-# Basic_DataEngineering_ByPSU : Chapter 3 Data Cleaning
+# Basic_DataEngineering_ByPSU : Chapter 4 Basic Data Analysis
 
-## Handling missing values.
+## Calculating statistical measures (mean, median, mode).
 
-## Dealing with incorrect or inconsistent data (e.g., 'ขาดสอบ' in 'Score').
+## Grouping data and performing aggregate operations.
 
-## Converting data types for analysis.
+## Analyzing distributions and trends.
