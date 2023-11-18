@@ -1,7 +1,5 @@
-# Basic_DataEngineering_ByPSU : Chapter 2 Data Exploration with Python
+# Basic_DataEngineering_ByPSU : Chapter 2 Practical Exercise: Handling Missing Values and Inconsistencies
 
-## Importing data with pandas.
+## Identifying 'Absent' students in 'Score' column
 
-## Exploring dataset using methods like head(), describe().
-
-## Identifying missing values.
+## Strategies to deal with missing or inconsistent data (e.g., imputation, removal)
