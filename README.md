@@ -1,7 +1,7 @@
-# Basic_DataEngineering_ByPSU : Chapter 5 Data Visualization
+# Basic_DataEngineering_ByPSU : Chapter 6 Advanced Analysis (Optional)
 
-## Introduction to data visualization tools in Python (e.g., Matplotlib, Seaborn).
+## Introduction to correlation and causation.
 
-## Creating basic plots - bar charts, histograms, scatter plots.
+## Basic predictive models.
 
-## Visualizing relationships between different data columns.
+## Introduction to machine learning with Python.
