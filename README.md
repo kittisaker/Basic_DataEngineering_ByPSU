@@ -1,7 +1,7 @@
-# Basic_DataEngineering_ByPSU : Chapter 4 Basic Data Analysis
+# Basic_DataEngineering_ByPSU : Chapter 5 Data Visualization
 
-## Calculating statistical measures (mean, median, mode).
+## Introduction to data visualization tools in Python (e.g., Matplotlib, Seaborn).
 
-## Grouping data and performing aggregate operations.
+## Creating basic plots - bar charts, histograms, scatter plots.
 
-## Analyzing distributions and trends.
+## Visualizing relationships between different data columns.
