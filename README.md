@@ -1,7 +1,7 @@
-# Basic_DataEngineering_ByPSU : Chapter 6 Advanced Analysis (Optional)
+# Basic_DataEngineering_ByPSU : Chapter 7 Real-World Application
 
-## Introduction to correlation and causation.
+## Working on a mini-project with your dataset.
 
-## Basic predictive models.
+## Formulating questions and finding answers using data analysis.
 
-## Introduction to machine learning with Python.
+## Presenting findings and insights.
