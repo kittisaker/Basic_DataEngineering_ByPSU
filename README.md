@@ -1,7 +1,5 @@
-# Basic_DataEngineering_ByPSU : Chapter 1 Introduction to Data Analysis
+# Basic_DataEngineering_ByPSU : Chapter 1 Introduction to Data Cleaning
 
-## Introduction to datasets.
+## Importance in Data Engineering
 
-## Understanding data types and structures.
-
-## Basic terminology: rows, columns, data types.
+## Common issues in raw data
