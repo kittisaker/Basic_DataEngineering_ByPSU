@@ -1,7 +1,7 @@
-# Basic_DataEngineering_ByPSU : Chapter 1 Introduction to Data Analysis
+# Basic_DataEngineering_ByPSU : Chapter 2 Data Exploration with Python
 
-## Introduction to datasets.
+## Importing data with pandas.
 
-## Understanding data types and structures.
+## Exploring dataset using methods like head(), describe().
 
-## Basic terminology: rows, columns, data types.
+## Identifying missing values.
