@@ -1,7 +1,5 @@
-# Basic_DataEngineering_ByPSU : Chapter 3 Data Cleaning
+# Basic_DataEngineering_ByPSU : Chapter 3 Data Type Conversions
 
-## Handling missing values.
+## Converting string to numeric types for 'Score'
 
-## Dealing with incorrect or inconsistent data (e.g., 'ขาดสอบ' in 'Score').
-
-## Converting data types for analysis.
+## Dealing with non-numeric values during conversion
