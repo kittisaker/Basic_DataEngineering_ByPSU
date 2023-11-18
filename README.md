@@ -1,7 +1,5 @@
-# Basic_DataEngineering_ByPSU : Chapter 5 Data Visualization
+# Basic_DataEngineering_ByPSU : Chapter 5 Data Transformation Techniques
 
-## Introduction to data visualization tools in Python (e.g., Matplotlib, Seaborn).
+## Using pivot tables for summarizing data
 
-## Creating basic plots - bar charts, histograms, scatter plots.
-
-## Visualizing relationships between different data columns.
+## Aggregating data based on specific criteria (e.g., average score by province)
