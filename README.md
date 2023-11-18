@@ -1,7 +1,5 @@
-# Basic_DataEngineering_ByPSU : Chapter 4 Basic Data Analysis
+# Basic_DataEngineering_ByPSU : Chapter 4 Categorization and Grouping 
 
-## Calculating statistical measures (mean, median, mode).
+## Grouping data by 'Province'
 
-## Grouping data and performing aggregate operations.
-
-## Analyzing distributions and trends.
+## Creating a pass/fail category based on 'Score'
