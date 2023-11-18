@@ -1,7 +1,7 @@
-# Basic_DataEngineering_ByPSU : Chapter 2 Data Exploration with Python
+# Basic_DataEngineering_ByPSU : Chapter 3 Data Cleaning
 
-## Importing data with pandas.
+## Handling missing values.
 
-## Exploring dataset using methods like head(), describe().
+## Dealing with incorrect or inconsistent data (e.g., 'ขาดสอบ' in 'Score').
 
-## Identifying missing values.
+## Converting data types for analysis.
