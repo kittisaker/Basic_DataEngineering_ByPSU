@@ -321,9 +321,13 @@ df.flags
 ```python
 df["Name"]
 
+df[ ['Name', 'Age'] ]
+
 df.Name
 
-df.get("Name", "Age") # Age does'n apear
+df.get('Name')
+
+df.get(['Name', 'Age'] )
 ```
 
 ```python
