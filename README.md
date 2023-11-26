@@ -2,11 +2,10 @@
 
 ## Select each branch to read the lesson.
 
-* Chapter-1 : Introduction to Data Cleaning
-* Chapter-2 : Practical Exercise: Handling Missing Values and Inconsistencies
-* Chapter-3 : Data Type Conversions
-* Chapter-4 : Categorization and Grouping
-* Chapter-5 : Data Transformation Techniques
-* Chapter-6 : Wrap-up and Q&A Session
+* Chapter-1 : Day1 Python for DE, Data Cleansing
+* Chapter-2 : Day2 Data Integration, Data Transformation, Data Analysis, Data Visualization
+* Chapter-3 : Day3 Database Normalization, SQL Database ETL, NO-SQL Database ETL, Task Scheduling
+* Chapter-4 : Day4 ETL, Airflow, DAG
+* Chapter-5 : Day5
 
 ---
